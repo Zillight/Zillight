@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub profile!
 
-I am a beginner in full stack web development with a burning passion for coding and creating. I have recently started my journey in web development and am eager to learn and grow as a developer. I am currently focusing on mastering the basics of HTML, CSS, JavaScript and frameworks such as React.
+I am Banji Zillight Olawole a 'beginner' in full stack web development with a burning passion for coding and creating. I have recently started my journey in web development and am eager to learn and grow as a developer. I am currently focusing on mastering the basics of HTML, CSS, JavaScript and frameworks such as React, while doing Software Engineering program with ALX.
 
 ## Skills
 
 - Familiar with HTML, CSS and JavaScript
+- Conversant with Linus commands, shell navigations and C programming language
 - Understanding of basic programming concepts
 - Strong interest in web development and a desire to learn
 - Passionate about creating and building
@@ -37,4 +38,7 @@ I am a beginner in full stack web development with a burning passion for coding 
 
 I am open to any opportunities to learn and grow as a developer. If you have a project that you think I could help with, or if you have any advice or mentorship opportunities, please don't hesitate to reach out.
 
-Thank you for visiting my profile! I look forward to connecting and learning with you.
+I look forward to connecting and learning with you.
+
+<a href=""><img src="../img" alt=""></a>
+Thank you for visiting my profile!
