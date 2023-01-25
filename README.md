@@ -22,7 +22,7 @@ I am Banji Zillight Olawole a 'beginner' in full stack web development with a bu
 ## Skills
 
 - Familiar with HTML, CSS and JavaScript
-- Conversant with Linus commands, shell navigations and C programming language
+- Conversant with Linux commands, shell navigations and C programming language
 - Understanding of basic programming concepts
 - Strong interest in web development and a desire to learn
 - Passionate about creating and building
