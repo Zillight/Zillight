@@ -1,6 +1,6 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+World;My+Name+Is+Zillight;)](https://git.io/typing-svg)
 
-# Hi there, I'm Zillight 👋
+# Hi there, I'm Banji Olawole Zillight 👋
 
 <!--
 **Zillight/Zillight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
-I am <b>Banji Zillight Olawole</b> a 'beginner' in full stack web development with a burning passion for coding and creating. I have recently started my journey in web development and am eager to learn and grow as a developer. I am currently focusing on mastering the basics of HTML, CSS, JavaScript and frameworks such as React, while doing Software Engineering program with ALX.
+I am a 'beginner' in full stack web development with a burning passion for coding and creating. I have recently started my journey in web development and am eager to learn and grow as a developer. I am currently focusing on mastering the basics of HTML, CSS, JavaScript and frameworks such as React, while doing Software Engineering program with ALX.
 
 ## Skills
 
