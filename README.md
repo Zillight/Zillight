@@ -1,5 +1,5 @@
-<!--# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+World.;My+Name+Is+Zillight+.+.+.;)](https://git.io/typing-svg)
--->
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+World.;My+Name+Is+Zillight+.+.+.;)](https://git.io/typing-svg)
+
 # Hi there, I'm Banji Olawole Zillight 👋
 
 <!--
